@@ -1,0 +1,8 @@
+package com.kartheeka;
+
+class Hello{
+
+public void sayHi(){
+system.out.println("HellowWorld");
+}
+}
